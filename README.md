@@ -29,8 +29,12 @@ Starting from pure Gaussian noise, the UNet iteratively denoises toward butterfl
 
 ![Refinement Process](results/Refinement_Process_.png)
 
-> Each row shows a denoising step. By the final rows, recognizable butterfly structures begin to emerge — wings, body, and symmetry.
+> Each row shows a denoising step. By the final rows, recognizable butterfly structures begin to emerge.
 
+### 🎬 Denoising in Action
+Watch the full reverse diffusion process animated — pure noise gradually becoming a butterfly:
+
+![Diffusion GIF](results/diffusion.gif)
 ---
 
 ### ✅ Generated Images (after 50 epochs)
